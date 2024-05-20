@@ -1,0 +1,6 @@
+// USER
+export const FETCH_USER_INFO = "FETCH_USER_INFO"
+
+
+// AUTH
+export const FETCH_AUTH_INFO = "FETCH_AUTH_INFO"
